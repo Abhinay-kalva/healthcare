@@ -1,4 +1,4 @@
-/* Global Styles */
+
 :root {
     --primary-color: #4CAF50;
     --secondary-color: #45a049;
@@ -99,7 +99,7 @@ main {
     margin: 0 auto;
 }
 
-/* Input Section */
+
 .input-section {
     background-color: white;
     padding: 2rem;
@@ -140,7 +140,7 @@ main {
     transform: translateY(-2px);
 }
 
-/* Recommendation Cards */
+
 #recommendations {
     padding: 2rem;
     background-color: rgba(255, 255, 255, 0.9);
@@ -230,7 +230,7 @@ main {
     margin-bottom: 2rem;
 }
 
-/* Medicine Page Styles */
+
 .medicine-card {
     display: flex;
     flex-wrap: wrap;
